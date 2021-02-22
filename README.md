@@ -20,8 +20,13 @@ Program will save all the qr codes images inside a folder in the same directory 
 
 
 pip install PyQRCode
+
 pip install cryptography
+
 pip install opencv-python
+
 pip install mysql-connector
+
+insall XAMP
 
 
