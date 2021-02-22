@@ -1,13 +1,13 @@
 # QR-Generator
 
 
-What is a QR Code?
+#What is a QR Code?
 
 A Quick Response code is a two-dimensional pictographic code used for its fast readability and comparatively large storage capacity. The code consists of black modules arranged in a square pattern on a white background. The information encoded can be made up of any kind of data (e.g., binary, alphanumeric, or Kanji symbols)
 
 
 
- GUI application created with Tkinter with the help of pyqrcode modlue.
+ #GUI application created with Tkinter with the help of pyqrcode modlue.
 
 The programs asks user to enter a ID/TASK to create the code with. Program then creates the QR code
 and user can save it if they want as png  .also it Connect with Database my sql if you want to make backup for data Generated to avoid loosing data 
