@@ -15,3 +15,13 @@ in future. aslo  can read this backdup database as seperate file ,the program pr
 .In addition the Application can scan any qr Code 
 with best security level  all data and qr code encryption with specific key you can't scan qr code without the key 
 Program will save all the qr codes images inside a folder in the same directory as the program.
+
+# For a standard install
+
+
+pip install PyQRCode
+pip install cryptography
+pip install opencv-python
+pip install mysql-connector
+
+
