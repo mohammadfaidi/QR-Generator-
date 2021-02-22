@@ -11,7 +11,7 @@ A Quick Response code is a two-dimensional pictographic code used for its fast r
 
 The programs asks user to enter a ID/TASK to create the code with. Program then creates the QR code
 and user can save it if they want as png  .also it Connect with Database my sql if you want to make backup for data Generated to avoid loosing data 
-in future. with can read database as seperate file the program prompt to ask what you need to named file as output 
-.In addition the Application can  scan any qr Code 
+in future. aslo  can read this backdup database as seperate file ,the program prompt to ask what you need to name  output  file
+.In addition the Application can scan any qr Code 
 with best security level  all data and qr code encryption with specific key you can't scan qr code without the key 
-Program will save all the qr  codes images inside a folder in the same directory as the program.
+Program will save all the qr codes images inside a folder in the same directory as the program.
