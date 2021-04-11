@@ -6,6 +6,8 @@ from tkinter import simpledialog
 import mysql.connector
 import cv2
 import cryptography
+import png
+
 from cryptography.fernet import Fernet
 
 #import png
