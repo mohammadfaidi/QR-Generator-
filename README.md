@@ -22,6 +22,8 @@ pip install opencv-python
 
 pip install mysql-connector
 
+pip install pypng
+
 insall XAMP
 
 
